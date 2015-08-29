@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyVideoProject</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+
+        <string name="video_player">Video Player</string>
+        <string name="stop">Stop</string>
+        <string name="pause">Pause</string>
+        <string name="play">Play</string>
+        <string name="status">Status</string>
+        <string name="empty_message">00:00</string>
+
+</resources>
